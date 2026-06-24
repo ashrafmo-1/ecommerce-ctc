@@ -1,0 +1,10 @@
+{
+  "name": "@ecommerce-ctc-analyses/landing-page-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@ecommerce-ctc-analyses/landing-page"
+    ]
+  }
+}
